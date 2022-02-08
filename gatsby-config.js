@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Film Life`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Susan Steinberg`,
+      summary: `who lives and works in Cambridge, MA living the Film Life.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Dedicted to the Film Life`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
