@@ -11,7 +11,7 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="About" />
       <h1>About</h1>
-      <p>About</p>
+      <p>About content here</p>
     </Layout>
   )
 }
