@@ -279,12 +279,12 @@ a:focus {
   margin-bottom: var(--spacing-4);
 }
 
-.header-link-home {
+/*.header-link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
-}
+}*/
 
 .bio {
   display: flex;
@@ -330,4 +330,26 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+
+/* Custom Styles */
+
+.header-link-home {
+  font-weight: var(--fontWeight-bold);
+  font-family: var(--font-heading);
+  text-decoration: none;
+  font-size: var(--fontSize-2);
+  color: black;
+}
+
+
+.header-link-secondary {
+  font-weight: var(--fontWeight-medium);
+  font-family: var(--font-heading);
+  text-decoration: none;
+  font-size: var(--fontSize-2);
+  color: black;
+  float: right;
+  margin-left: 20px;
 }
