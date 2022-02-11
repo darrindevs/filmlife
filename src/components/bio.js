@@ -46,9 +46,10 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://medium.com/${social?.twitter || ``}`}>
+          { /* <a href={`https://medium.com/${social?.twitter || ``}`}>
             You should follow them on Medium
-          </a>
+          </a> */ } 
+           Follow on <a target="blank" href="https://medium.com/@susansteinberg1">Medium</a>
         </p>
       )}
     </div>
