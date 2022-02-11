@@ -1,5 +1,5 @@
 ---
-title: Thoughts on the 2022 Oscars
+title: The Article on the Home Page
 date: "2022-02-07T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---

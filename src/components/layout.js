@@ -13,11 +13,11 @@ const Layout = ({ location, title, children }) => {
         {title}
       </Link>
       <Link className="header-link-secondary" to="/archive">
-        Archive
+        Film Addict
       </Link>
-      <Link className="header-link-secondary" to="/about">
+      {/*<Link className="header-link-secondary" to="/about">
         About
-      </Link>
+    </Link>*/}
       </>
       
     )
@@ -28,11 +28,11 @@ const Layout = ({ location, title, children }) => {
         {title}
       </Link>
       <Link className="header-link-secondary" to="/archive">
-        Archive
+        Film Addict
       </Link>
-      <Link className="header-link-secondary" to="/about">
+      {/*<Link className="header-link-secondary" to="/about">
         About
-      </Link>
+    </Link>*/}
     </>
     )
   }
