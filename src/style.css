@@ -336,7 +336,7 @@ a:focus {
 /* Custom Styles */
 
 .header-link-home {
-  font-weight: var(--fontWeight-bold);
+  font-weight: var(--fontWeight-extrabold);
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
@@ -345,7 +345,7 @@ a:focus {
 
 
 .header-link-secondary {
-  font-weight: var(--fontWeight-medium);
+  font-weight: var(--fontWeight-light);
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
