@@ -83,14 +83,20 @@ body {
   color: var(--color-text);
 }
 
-footer {
+/*footer {
   padding: var(--spacing-6) var(--spacing-0);
-}
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  width: 100%;
+  
+}*/
 
 hr {
   background: var(--color-accent);
   height: 1px;
   border: 0;
+  background-color: red;
 }
 
 /* Heading */
@@ -352,4 +358,17 @@ a:focus {
   color: black;
   float: right;
   margin-left: 10px;
+}
+
+footer {
+  padding: var(--spacing-6) var(--spacing-0);
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  width: 100%;
+  
+}
+
+.bottom-div {
+  margin-bottom: 100px;
 }
