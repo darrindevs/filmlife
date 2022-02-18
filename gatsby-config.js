@@ -3,7 +3,7 @@ module.exports = {
     title: `Film Life`,
     author: {
       name: `Susan Steinberg`,
-      summary: `who lives and works in Cambridge, MA living the Film Life.`,
+      summary: `who resides and works in Cambridge, MA living the Film Life.`,
     },
     description: `Dedicted to the Film Life`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

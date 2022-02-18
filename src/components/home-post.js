@@ -14,13 +14,140 @@
    return (
      
      <div>
-         <h2>The Post on the Home Page</h2>
-         <p>The content of the Post on the Home Page</p>
-         <p>Sustainable whatever cred glossier, vice twee occupy selvage brunch polaroid etsy succulents activated charcoal taiyaki tumblr. Synth meggings single-origin coffee edison bulb. Readymade ennui typewriter, 90's palo santo yr beard mustache health goth. Skateboard echo park everyday carry kale chips, marfa portland bicycle rights. XOXO photo booth taxidermy, dreamcatcher tattooed pitchfork affogato succulents neutra williamsburg paleo waistcoat tacos hoodie shoreditch. Enamel pin everyday carry cornhole kale chips tattooed pug.</p>
-         <p>Wayfarers meggings cronut, fanny pack tbh wolf tilde tofu hashtag. Whatever keffiyeh tacos, brooklyn messenger bag put a bird on it meh banh mi normcore four loko fashion axe actually. Pok pok jean shorts cloud bread portland pabst. Ramps helvetica biodiesel pop-up cray iPhone. Dreamcatcher gentrify kitsch live-edge, tote bag hella roof party irony DIY af banh mi kogi selvage taiyaki messenger bag. Jean shorts fam leggings tousled retro. Small batch lumbersexual chia activated charcoal kickstarter +1.</p>
-         <p>Literally copper mug cloud bread gochujang meggings tote bag gluten-free tattooed. Lo-fi crucifix cloud bread, brooklyn cred XOXO tumeric YOLO edison bulb poutine. Tilde readymade mustache butcher farm-to-table brooklyn. Whatever fashion axe shoreditch +1 waistcoat post-ironic, woke pabst gochujang. Dreamcatcher beard master cleanse quinoa kale chips kogi hell of butcher subway tile tumblr hoodie thundercats. Roof party actually flannel, microdosing chillwave gastropub pinterest. Glossier subway tile lumbersexual XOXO godard 90's la croix PBR&B.</p>
-         <p>Meggings street art 3 wolf moon four dollar toast authentic squid succulents celiac. Woke godard blog hexagon lumbersexual cred ramps tousled. Drinking vinegar seitan glossier, lyft brunch pop-up tumeric hot chicken farm-to-table crucifix sustainable single-origin coffee asymmetrical intelligentsia. Etsy leggings food truck, listicle shaman tumblr pok pok brunch gochujang typewriter copper mug quinoa bitters subway tile. Freegan bespoke narwhal disrupt.</p>
-         <p className="bottom-div">Next level sartorial pitchfork tattooed hammock adaptogen pop-up hashtag cold-pressed church-key sustainable microdosing pabst. Neutra taiyaki viral marfa hexagon gochujang. Paleo chambray squid raw denim bicycle rights, scenester adaptogen ramps fashion axe before they sold out green juice aesthetic palo santo. 90's food truck neutra, VHS fashion axe seitan disrupt succulents 8-bit roof party selvage. Dreamcatcher banjo gochujang whatever la croix.</p>
+         <h2>What I Watched and What I Am Watching: Films & TV  2021</h2>
+         <h5><strong>Films and TV Series My List Pre-Academy Awards March 27th, 2022
+-	What Are You Watching? What Did You Watch?
+</strong></h5>
+<ul>
+•Licorice Pizza – At the time of writing, still in theatres only.  
+
+•Power of the Dog – Jane Campion - Netflix
+
+•Drive My Car – Coolidge Theatre Streaming (other independent theaters may be streaming films also)
+
+•Nightmare Alley  –  As of February 1st: Hulu & HBO Max 
+
+•The Card Counter – Amazon Prime; Apple TV
+
+•Being the Ricardos – Aaron Sorkin on “Ricky & Lucy” – Prime Video
+
+•Don’t Look Up - Prime Video 
+
+•The French Dispatch – Amazon Prime, Apple TV, Vudu  
+
+•Hand of God – 
+
+•Compartment Six - 
+
+•Parallel Mothers  - 
+
+•The Worst Person in the World – In Theaters
+
+•Titane - 
+
+•Shang-Chi and the Ten Rings – Disney Plus
+
+•Spencer – Amazon Prime, Apple+
+
+•The Tragedy of MacBeth  –  Apple TV
+
+•The Souvenir – Part II – Tilda Swinton’s daughter stars in the film; you may need to see The Souvenir Part I to understand Part II.
+
+•King Richard – Apple TV
+
+•Belfast  - 
+
+C’Mon, C’Mon - 
+
+•Tick, Tick… Boom
+
+•Passing -
+
+•Flee – 
+
+•Shang Chi and the Ten Rings of Power -  Disney plus
+
+•The Lost Daughter – 
+
+•West Side Story – 
+
+•Inside Bo Burnam – Netflix
+
+•Green Knight – 
+
+•Spiderman: No Way Home
+</ul>
+<h6>These “Music Docs”</h6>
+<ul>
+•Summer of Soul – Questlove, Late 60’s(?) Footage – Hulu 
+
+•The Beatles: Get Back – Peter Jackson, not doing Lord of the Rings this time, rather Lords of the Entertainment Ring – Disney Plus
+
+•Velvet Underground (Lou Reed)  – Netflix
+
+•Respect – Aretha – A Music Bio-pic
+
+</ul>
+<h6>Documentaries (List Incomplete)</h6>
+<ul>
+•Simple as Water
+
+•Julia, the Documentary – (amazon)
+
+•Paris Calligrammes -  Ulricke Ottinger, German – autobiographical documentary – BAMPFA
+A close relative to documentary movements here in Cambridge
+
+</ul>
+<h6>Television and Series </h6>
+<ul>
+•I May Destroy You – 
+
+•The Morning Show – Apple TV 
+
+•Hacks –  On The obnoxious and transcendent 
+
+•Squidgame - 
+
+•Ozark –  
+
+•Station 11
+
+•Rami –
+
+•Pose 
+
+•Ted Lasso – How dare Apple not provide a third season??
+
+•Scenes from a Marriage 
+
+•Dopesick 
+
+•Insecure 
+
+•Nine Perfect Strangers 
+
+•Wanda Vision – 
+
+•American Rust
+
+</ul>
+<h6>Streaming Programs that I Have Not Seen (and Retain a Limited Interest - and in some cases, Possibly Twisted Curiosity)</h6>
+<ul>
+•Black Mirror
+
+•Sex Education – 
+
+•Big Mouth
+
+•Succession – HBO Max
+
+•Mare of Easttown – Amazon
+
+•The White Lotus
+
+</ul>
+
+         <p className="bottom-div"></p>
      </div>
      
    )
