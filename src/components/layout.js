@@ -42,9 +42,13 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
+        <span className="footy">
         © {new Date().getFullYear()}, Built by
         {` `}
         <a href="https://www.dynamo.dev">Dynamo</a> ⚡️
+
+        </span>
+        
       </footer>
     </div>
   )
