@@ -1,6 +1,6 @@
 ---
 title: Susan's Best Films 2019
-date: "2022-02-07T22:40:32.169Z"
+date: "2019-02-01T22:40:32.169Z"
 description: NOT ranked, but grouped.    2019 was a year of not-very-good-films and even flawed films.   
 
 ---
