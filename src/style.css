@@ -351,7 +351,7 @@ a:focus {
 
 
 .header-link-secondary {
-  font-weight: var(--fontWeight-light);
+  font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-1);
