@@ -48,7 +48,7 @@ This year was not a particularly good year for films, but my three favorite from
 - Nonfiction
 - A Beautiful Day in the Neighborhood…??
 
-#### Her Smell
+- Her Smell
 
 - Joker 
 
@@ -61,4 +61,11 @@ This year was not a particularly good year for films, but my three favorite from
 - The Report
 
 - Booksmart 
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
  

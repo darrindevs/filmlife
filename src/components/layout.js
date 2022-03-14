@@ -13,7 +13,7 @@ const Layout = ({ location, title, children }) => {
         {title}
       </Link>
       <Link className="header-link-secondary" to="/archive">
-        Film Addict
+        Film Addict - Archive
       </Link>
       {/*<Link className="header-link-secondary" to="/about">
         About
@@ -28,7 +28,7 @@ const Layout = ({ location, title, children }) => {
         {title}
       </Link>
       <Link className="header-link-secondary" to="/archive">
-        Film Addict
+        Film Addict - Archive
       </Link>
       {/*<Link className="header-link-secondary" to="/about">
         About
