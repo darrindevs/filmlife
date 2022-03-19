@@ -21,10 +21,11 @@
 <ul>
 <li><strong>Licorice Pizza</strong>– Amazon for Purchase</li>
 <li><strong>Summer of Soul</strong> – Amazon for rent or purchase</li>
-<li><strong>Power of the Dog</strong> – Jane Campion - Netflix</li>
 <li><strong>Drive My Car</strong> – HBO Max, Amazon Prime, iTunes</li>
+<li><strong>Power of the Dog</strong> – Jane Campion - Netflix</li>
 <li><strong>Nightmare Alley</strong>  –  Hulu & HBO Max </li>
 <li><strong>Flee</strong>  –  Amazon Prime, iTunes </li>
+<li><strong>Julia</strong> - A joyous documentary about Julia Child and food!   Brings instant bliss</li>
 <br></br>
 <li>The Card Counter – Amazon Prime; Apple TV</li>
 <li>Being the Ricardos – Aaron Sorkin on “Ricky & Lucy” – Prime Video</li>
@@ -65,7 +66,6 @@
 <h6>Documentaries (List Incomplete)</h6>
 <ul>
 <li>Simple as Water</li>
-<li>Julia, the Documentary – (amazon)</li>
 <li>Paris Calligrammes -  Ulricke Ottinger, German – autobiographical documentary – BAMPFA
 A close relative to documentary movements here in Cambridge</li>
 </ul>
