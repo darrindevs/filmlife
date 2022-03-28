@@ -20,12 +20,16 @@
 </strong></h5>
 <ul>
 <li><strong>Licorice Pizza</strong>– Amazon for Purchase</li>
-<li><strong>Summer of Soul</strong> – Amazon for rent or purchase</li>
 <li><strong>Drive My Car</strong> – HBO Max, Amazon Prime, iTunes</li>
+<li><strong>Flee</strong>  –  Amazon Prime, iTunes </li>
+<li><strong>The Worst Person in the World</strong></li>
 <li><strong>Power of the Dog</strong> – Jane Campion - Netflix</li>
 <li><strong>Nightmare Alley</strong>  –  Hulu & HBO Max </li>
-<li><strong>Flee</strong>  –  Amazon Prime, iTunes </li>
+<li><strong>C'mom C'mon</strong></li>
+<li><strong>Summer of Soul</strong> – Amazon for rent or purchase</li>
 <li><strong>Julia</strong> - A joyous documentary about Julia Child and food!   Brings instant bliss</li>
+
+
 <br></br>
 <li>The Card Counter – Amazon Prime; Apple TV</li>
 <li>Being the Ricardos – Aaron Sorkin on “Ricky & Lucy” – Prime Video</li>
